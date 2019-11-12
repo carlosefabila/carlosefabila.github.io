@@ -12,11 +12,11 @@
 ### Education
 
 7.  08.12 – 12.17     B.S. in Mechatronics Engineering (Average: 90/100)
-8.                      CENEVAL Award to the Performance Excellence – EGEL
-9.                      Tecnológico de Monterrey, Campus Monterrey, Mexico
+8. CENEVAL Award to the Performance Excellence – EGEL
+9. Tecnológico de Monterrey, Campus Monterrey, Mexico
 10.
 11. 08.15 – 12.17     Research and Innovation Certificate
-12.                     Tecnológico de Monterrey, Campus Monterrey, Mexico
+12. Tecnológico de Monterrey, Campus Monterrey, Mexico
 
 ### Software
 
