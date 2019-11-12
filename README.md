@@ -2,12 +2,12 @@
 
 ### Personal Information
 
-1.  Birthdate:        March / 19 / 1994
-2.  Birthplace:       Monterrey, Mexico
-3.  Civil Status:     Single
-4.  German Visa:      Type d (Arbeitsplatzsuche)
-5.  
-6.  Prof. interests:  Innovation, Image processing, Automation
+Birthdate: | March / 19 / 1994
+Birthplace: | Monterrey, Mexico
+Civil Status: | Single
+German Visa: | Type d (Arbeitsplatzsuche)
+
+Prof. interests:  Innovation, Image processing, Automation
 
 [Go to LinkedIn Profile](https://www.linkedin.com/in/carlosefabila/)
 
