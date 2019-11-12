@@ -1,3 +1,24 @@
+## Curriculum Vitæ
+
+### Personal Information
+
+1.  Birthdate:        March / 19 / 1994
+2.  Birthplace:       Monterrey, Mexico
+3.  Civil Status:     Single
+4.  German Visa:      Type d (Arbeitsplatzsuche)
+5.  
+6.  Prof. interests:  Innovation, Image processing, Automation
+
+### Education
+
+7.  08.12 – 12.17     B.S. in Mechatronics Engineering (Average: 90/100)
+8.  		                CENEVAL Award to the Performance Excellence – EGEL
+9.  		                Tecnológico de Monterrey, Campus Monterrey, Mexico
+10. 
+11. 08.15 – 12.17     Research and Innovation Certificate
+12.		                  Tecnológico de Monterrey, Campus Monterrey, Mexico
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/carlosefabila/carlosefabila.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
