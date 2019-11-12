@@ -9,6 +9,10 @@
 5.  
 6.  Prof. interests:  Innovation, Image processing, Automation
 
+[Go to LinkedIn Profile](https://www.linkedin.com/in/carlosefabila/)
+
+[Go to Xing Profile](https://www.xing.com/profile/CarlosEduardo_FabilaGarcinava)
+
 ### Education
 
 7.  08.12 – 12.17     B.S. in Mechatronics Engineering (Average: 90/100)
