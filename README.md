@@ -93,7 +93,7 @@ OS: | Windows
 2: | Ran the program in a single-board Linux operated computer on an Hexacopter.
 3: | Communicated the commands to the drone’s flight controller.
 
-![Picture 09](Picture 09.png)
+![Picture 09](Picture 09.jpg)
 
 ### Software
 
@@ -118,6 +118,9 @@ OS: | Ubuntu
 ### Testing of different features for the program
 
 ![Picture 12](Picture 12.png)
+
 ![Picture 13](Picture 13.png)
+
 ![Picture 14](Picture 14.png)
+
 
