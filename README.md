@@ -1,14 +1,14 @@
 ## Curriculum Vitæ
 
-### Personal Information
-
 ![Profile Picture](Profile Picture Formal.jpg)
+
+### Personal Information
 
 Birthdate: | March / 19 / 1994
 Birthplace: | Monterrey, Mexico
 Civil Status: | Single
 Address: | Arnoldstraβe 18, 22765, Hamburg, Germany
-Cellphone: | +52 152 2133 4325
+Cellphone: | +49 152 2133 4325
 German Visa: | Type d (Arbeitsplatzsuche)
 Prof. interests: | Innovation, Image processing, Automation
 
@@ -83,7 +83,7 @@ OS: | Windows
 ![Picture 07](Picture 07.png)
 
 ## Project 2 - Hexacopter's Flight Control System
-### Tecnológico de Monterrey (*Mexico*)
+### (*Mexico*)
 
 ![Picture 08](Picture 08.png)
 
