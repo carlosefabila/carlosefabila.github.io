@@ -2,6 +2,8 @@
 
 ### Personal Information
 
+![Profile Picture](Profile Picture Formal.jpg)
+
 Birthdate: | March / 19 / 1994
 Birthplace: | Monterrey, Mexico
 Civil Status: | Single
@@ -45,7 +47,7 @@ German: | Intermediate fluency (Currently studying B1)
 
 ## Project 1 - Illumination Corrector Algorithm
 ### System S.p.A. (*Italy*)
-
+ | 
 ### Objectives
 
 1: | Find the equation from a curve that represents the image distortion in a vision-based quality control system.
@@ -69,10 +71,11 @@ OS: | Windows
 ### Sample Images - Sample Profile - Curve and Adjusted Profile
 
  | 
+ | 
 
 ## Project 2 - Hexacopter's Flight Control System
 ### Tecnológico de Monterrey (*Mexico*)
-
+ | 
 ### Objectives
 
 1: | Developed a program that recognized pre-defined marks as flight commands under variable light conditions.
